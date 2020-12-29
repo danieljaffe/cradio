@@ -4,7 +4,12 @@
 
 Crowdsourced Radio!
 
-## Group Informaion
+## Group and Project Informaion
+
+Info: 
+
+This repo is a fork from my teams project for UCLA's CS 188 Scalable Internet Services course.
+
 
 Members:
 
