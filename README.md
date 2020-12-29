@@ -6,12 +6,12 @@ Crowdsourced Radio!
 
 ## Group and Project Informaion
 
-Info: 
+#### Info: 
 
 This repo is a fork from my teams project for UCLA's CS 188 Scalable Internet Services course.
 
 
-Members:
+#### Members:
 
 Dylan Breon (dbreon@ucla.edu)
 
